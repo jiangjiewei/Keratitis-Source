@@ -39,6 +39,7 @@ python keratitis_training_v1.py -a 'inception_v3'
 
 # Evaluate three models of DenseNet121, ResNet50, and Inception-v3 at the same time on GPU
 python keratitis_testing_v1.py
+***
 
 The representative samples for keratitis, other cornea abnormalities, and normal cornea are presented in /Keratitis-Source/sample.
 The representative samples of slit-lamp images: Keratitis-Source/sample/Representative samples of slit-lamp images/
