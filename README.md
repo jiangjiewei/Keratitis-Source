@@ -41,8 +41,8 @@ python keratitis_training_v1.py -a 'inception_v3'
 python keratitis_testing_v1.py
 ***
 
-The representative samples for keratitis, other cornea abnormalities, and normal cornea are presented in /Keratitis-Source/sample.
-The representative samples of slit-lamp images: Keratitis-Source/sample/Representative samples of slit-lamp images/
-The representative samples of smartphone images: Keratitis-Source/sample/Representative samples of smartphone images/
+The representative samples for keratitis, other cornea abnormalities, and normal cornea are presented in /Keratitis-Source/sample.  
+The representative samples of slit-lamp images: Keratitis-Source/sample/Representative samples of slit-lamp images/  
+The representative samples of smartphone images: Keratitis-Source/sample/Representative samples of smartphone images/  
 
 Please feel free to contact us for any questions or comments: Zhongwen Li, E-mail: li.zhw@qq.com or Jiewei Jiang, E-mail: jiangjw924@126.com.
