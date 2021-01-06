@@ -7,7 +7,7 @@ This system has the potential to be applied to both digital slit lamp cameras an
 * Ubuntu: 18.04 lts
 * Python 3.7.8
 * Pytorch 1.6.0
-* NVIDIA GPU + CUDA_10.0 CuDNN_7.5
+* NVIDIA GPU + CUDA_10.0 CuDNN_7.5*
 This repository has been tested on NVIDIA RTX2080Ti. Configurations (e.g batch size, image patch size) may need to be changed on different platforms.
 
 # Installation
