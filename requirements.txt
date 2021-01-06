@@ -1,0 +1,7 @@
+wheel==0.34.2
+yaml==0.2.5
+scipy==1.5.2
+joblib==0.16.0
+opencv-python==4.3.0.38
+scikit-image==0.17.2
+numpy==1.19.1
