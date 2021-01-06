@@ -1,7 +1,7 @@
 Keratitis-Source
 create time: 2021.01.06
 
-Introduction
+Introduction:
 This repository contains the source code for developing a deep learning (DL) system for the automated classification of keratitis, other cornea abnormalities, and normal cornea from slit-lamp and smartphone images. 
 This system has the potential to be applied to both digital slit lamp cameras and smartphones to promote the early diagnosis and treatment of keratitis, preventing the corneal blindness caused by keratitis.
 
@@ -11,7 +11,7 @@ Ubuntu: 18.04 lts
 Python 3.7.8
 Pytorch 1.6.0
 NVIDIA GPU + CUDA_10.0 CuDNN_7.5
-This repository has been tested on four NVIDIA RTX2080Ti. Configurations (e.g batch size, image patch size) may need to be changed on different platforms.
+This repository has been tested on NVIDIA RTX2080Ti. Configurations (e.g batch size, image patch size) may need to be changed on different platforms.
 
 Installation
 Other packages are as follows:
