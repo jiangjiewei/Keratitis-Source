@@ -20,7 +20,7 @@ Other packages are as follows:
 * opencv-python
 * scikit-image
 * numpy
-# Install dependencies:
+# Install dependencies
 pip install -r requirements.txt
 # Usage
 * The file "keratitis_training_v1.py" in /Keratitis-Source is used for our models training.
