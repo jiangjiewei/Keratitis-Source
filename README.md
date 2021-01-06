@@ -28,16 +28,16 @@ Other packages are as follows:
 
 The training and testing are executed as follows:
 
-#Train DenseNet121 on GPU
+# Train DenseNet121 on GPU
 python keratitis_training_v1.py -a 'densenet121'
 
-#Train ResNet50 on GPU
+# Train ResNet50 on GPU
 python keratitis_training_v1.py -a 'resnet50'
 
-#Train Inception-v3 on GPU
+# Train Inception-v3 on GPU
 python keratitis_training_v1.py -a 'inception_v3'
 
-#Evaluate three models of DenseNet121, ResNet50, and Inception-v3 at the same time on GPU
+# Evaluate three models of DenseNet121, ResNet50, and Inception-v3 at the same time on GPU
 python keratitis_testing_v1.py
 
 The representative samples for keratitis, other cornea abnormalities, and normal cornea are presented in /Keratitis-Source/sample.
