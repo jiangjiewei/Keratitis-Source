@@ -1,4 +1,5 @@
 
+[![DOI](https://zenodo.org/badge/327200763.svg)](https://zenodo.org/badge/latestdoi/327200763)
 # Introduction  
 This repository contains the source code for developing a deep learning (DL) system for the automated classification of keratitis, other cornea abnormalities, and normal cornea from slit-lamp and smartphone images.  
 This system has the potential to be applied to both digital slit lamp cameras and smartphones to promote the early diagnosis and treatment of keratitis, preventing the corneal blindness caused by keratitis.
