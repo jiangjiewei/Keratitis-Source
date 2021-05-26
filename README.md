@@ -13,13 +13,16 @@ This repository has been tested on NVIDIA RTX2080Ti. Configurations (e.g batch s
 
 # Installation
 Other packages are as follows:
-* wheel
-* yaml
-* scipy
-* joblib
-* opencv-python
-* scikit-image
-* numpy
+* pytorch: 1.6.0 
+* wheel:  0.34.2
+* yaml:   0.2.5
+* scipy:  1.5.2
+* joblib: 0.16.0
+* opencv-python: 4.3.0.38
+* scikit-image: 0.17.2
+* numpy: 1.19.1
+* matplotlib：3.3.1
+* sikit-learn：0.23.2
 # Install dependencies
 pip install -r requirements.txt
 # Usage
